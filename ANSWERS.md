@@ -56,15 +56,6 @@ Terminated: When P1's remaining time is zero and it has finished executing, it e
 
 [Write your answer here. For each state, explain when P1 enters that state during the simulation. Use your understanding of the code to trace through the lifecycle.]
 
-1. **New**: [When is P1 in New state?]
-
-2. **Runnable**: [When does P1 become Runnable?]
-
-3. **Running**: [When is P1 Running?]
-
-4. **Waiting**: [When/why would P1 be Waiting?]
-
-5. **Terminated**: [When is P1 Terminated?]
 
 ---
 
