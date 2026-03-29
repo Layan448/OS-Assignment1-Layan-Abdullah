@@ -453,8 +453,8 @@ Student Name: [Layan Abdullah]
 Student ID: [444052747]
 GitHub Username: Layan448
 Repository Link: https://github.com/Layan448/OS-Assignment1-Layan-Abdullah.git
-Video Link: [Google Drive link - make sure it's accessible to anyone with the link]
-Date Submitted: [Submission Date]
+Video Link: https://drive.google.com/file/d/1BYDErYo1lOo6LuIoQcfvLHjBkkrYkTLO/view?usp=drive_link
+Date Submitted: [March 29,2026]
 ```
 
 **Example:**
